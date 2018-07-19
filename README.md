@@ -22,6 +22,12 @@ PS： 本项任务比较容易，可以提前完成
 * 上传到github.io成为你的主页
 * 总结一篇JS高程博文发布到你的博客上（需要涵盖高程每一章的知识点）
 
-### 一个非常简单的微信小程序
+### 一个非常非常简单的微信小程序
 #### 要求
-* 
+* 根据PSD图实现完整的小程序 （PSD图）
+* 使用蓝湖工具切图 https://lanhuapp.com/?home
+* 实现响应式布局
+* 使用easymock自行模拟数据
+#### PS
+* 合理使用慕课网等网络资源
+* 下载/安装/API文档所在地 https://developers.weixin.qq.com/miniprogram/dev/
