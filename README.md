@@ -34,3 +34,6 @@
 * 合理使用慕课网等网络资源
 * 下载/安装/API文档所在地 https://developers.weixin.qq.com/miniprogram/dev/
 
+##总结
+* 有什么问题可以在群里讨论或者单独问学长学姐
+
