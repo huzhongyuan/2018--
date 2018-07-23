@@ -31,6 +31,7 @@
 * 实现响应式布局
 * 使用接口管理工具（自选 推荐easymock/rap2）自行模拟数据
 #### PS
+* UI框架（MINUI） https://meili.github.io/min/docs/install/index.html
 * 合理使用慕课网等网络资源
 * 下载/安装/API文档所在地 https://developers.weixin.qq.com/miniprogram/dev/
 
