@@ -26,7 +26,7 @@
 
 ### 一个非常非常简单的微信小程序
 #### 要求
-* 根据PSD图实现完整的小程序 （PSD图 https://github.com/huzhongyuan/-PSD）
+* 根据PSD图实现完整的小程序 （PSD图 https://github.com/huzhongyuan/-PSD
 * 使用蓝湖工具切图 https://lanhuapp.com/?home
 * 实现响应式布局
 * 使用接口管理工具（自选 推荐easymock/rap2）自行模拟数据
